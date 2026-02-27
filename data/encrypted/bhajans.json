@@ -1,0 +1,20 @@
+{
+  "bhajans": [
+    {
+      "id": 1,
+      "title": "Om Namah Shivaya",
+      "artist": "Traditional",
+      "duration": "5:30",
+      "url": "/audio/om-namah-shivaya.mp3",
+      "image": "/images/bhajan1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Hare Krishna Mahamantra",
+      "artist": "ISKCON",
+      "duration": "8:15",
+      "url": "/audio/hare-krishna.mp3",
+      "image": "/images/bhajan2.jpg"
+    }
+  ]
+}

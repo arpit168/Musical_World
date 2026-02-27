@@ -1,0 +1,39 @@
+{
+  "short_name": "Harmonyum",
+  "name": "Harmonyum - Devotional Music & Meditation App",
+  "description": "Experience spiritual harmony through devotional music, meditation, and mantras",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#4A90E2",
+  "orientation": "portrait-primary",
+  "categories": ["music", "lifestyle", "spirituality"],
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    }
+  ]
+}
