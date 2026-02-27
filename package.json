@@ -13,8 +13,11 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "lint": "eslint .", 
-    "deploy": "npm run build"
+    "lint": "eslint .",
+    "deploy": "npm run build",
+    "start": "react-scripts start",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",
